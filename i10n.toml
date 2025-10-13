@@ -1,2 +1,2 @@
 [[includes]]
-    path = "package/core/i10n.toml"
+    path = "packages/core/i10n.toml"
