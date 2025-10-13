@@ -1,0 +1,3 @@
+[[paths]]
+    reference = "lang/en.json"
+    l10n = "lang/{locale}.json"

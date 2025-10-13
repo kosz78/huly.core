@@ -1,0 +1,2 @@
+[[includes]]
+    path = ["package/core/i10n.toml", "package/platform/i10n.toml"]
