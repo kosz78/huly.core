@@ -1,6 +1,6 @@
 {
   "string": {
-    "Id": "Id",
+    "Id": "ID",
     "Space": "Arbeitsbereich",
     "Spaces": "Arbeitsbereiche",
     "SpacesDescription": "Alle Arbeitsbereichstypen verwalten",
