@@ -1,0 +1,5 @@
+files:
+  - source: /packages/core/lang/en.json
+    translation: /packages/core/lang/%two_letters_code%.json
+  - source: /packages/platform/lang/en.json
+    translation: /packages/platform/lang/%two_letters_code%.json
